@@ -820,7 +820,7 @@ footer {
   letter-spacing: 0.06em;
 }
 
-.all-progects p {
+.all-progects .card-text {
   color: var(--grey);
   font-family: inherit;
   font-size: 16px;
