@@ -366,6 +366,25 @@ header {
   height: 70px;
 }
 
+.we-do-thumb {
+  position: relative;
+}
+
+.legend {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  margin: 0;
+  padding: 27px 0;
+  color: var(--white);
+  background-color: rgba(47, 48, 58, 0.8);
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 1.14;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 /* end чем мы занимаемся */
 /*==our team==*/
 
